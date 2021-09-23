@@ -1,3 +1,6 @@
+# Info
+Servidor e cliente de um jogo da velha.
+
 ## Requisitos:
 
 - python 3.8
@@ -12,7 +15,7 @@
 
 - No primeiro terminal faça: 
 
-  > _python server/Server.py_;
+  > _python server/Server.py_
 
 - No segundo e no terceiro terminal faça:
 
